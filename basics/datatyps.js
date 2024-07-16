@@ -22,3 +22,38 @@ let isLoggedIn = false//boolean
 console.log(typeof age )
 console.log(typeof null )  //output object
 console.log(typeof undefined )//output undefined
+
+
+
+/**
+ * .........primitive .............
+ * number 
+ * sting
+ * boolean
+ * BigInt
+ * null
+ * undefine
+ * symbol
+ * 
+ * 
+ * ....non-primitive...............
+ * object
+ * Array
+ * function
+ * date
+ * regexp
+ * map
+ * set
+ * weakmap
+ * weakset
+ */
+
+//heap and stack memoreis
+
+/**
+ * all non-primitve type  are in heap memry (refrence)
+ * 
+ * and primivties arein stack(copy)
+ * 
+ * 
+ */
